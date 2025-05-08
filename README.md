@@ -10,7 +10,7 @@ A BMI Calculator is a tool that helps you check if your weight is healthy accord
 
 -Obese
 
-🚀We use a BMI calculator to:
+# 🚀We use a BMI calculator to:
 
 -Check health status quickly.
 
