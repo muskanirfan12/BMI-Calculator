@@ -22,5 +22,8 @@ A BMI Calculator is a tool that helps you check if your weight is healthy accord
 
 -It helps you learn programming basics (like input, output, and if-else conditions).
 
+# 👉Check Out Link: 
+https://bmi-calculator-wtbixtwfr2ms5tctufj6fu.streamlit.app/
+
 -You can use it in apps, websites, or personal tools.
 
